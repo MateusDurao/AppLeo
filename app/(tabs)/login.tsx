@@ -23,10 +23,10 @@ export default function LoginScreen(){
 const styles = StyleSheet.create({
   container:{
     flex:1,
-    backgroundColor:'purple',
+    backgroundColor:'blue',
     alignItems:'center',
     justifyContent:'center',
-    padding:20
+    padding:30
     
   },
   title:{
@@ -43,8 +43,8 @@ const styles = StyleSheet.create({
     marginBottom:20,
   },
   button:{
-    backgroundColor:'green',
-    width:'100%',
+    backgroundColor:'orange',
+    width:'80%',
     height:40,
     alignItems:'center',
     justifyContent:'center',
